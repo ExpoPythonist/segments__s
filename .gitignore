@@ -1,0 +1,7 @@
+.env
+segments.db*
+dump.json
+media
+*.log
+frontend/node_modules
+db-data
